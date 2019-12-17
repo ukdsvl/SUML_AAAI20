@@ -6,3 +6,5 @@ In this paper, we use unlabeled data to generate adversarial, synthetic constrai
 
 # Illustration of SUML
 ![Illustration of SUML](SUML_idea.png)
+
+In the above figure, c represents one of the possbile ordering of examples in a randomly sampled triplet.
