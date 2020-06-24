@@ -42,3 +42,17 @@ If you find the code useful, kindly consider citing our paper:
   year={2020}
 }
 ```
+
+Additionally, citation to the Pymanopt paper is:
+```
+@article{JMLR:v17:16-177,
+  author  = {James Townsend and Niklas Koep and Sebastian Weichwald},
+  title   = {Pymanopt: A Python Toolbox for Optimization on Manifolds using Automatic Differentiation},
+  journal = {Journal of Machine Learning Research},
+  year    = {2016},
+  volume  = {17},
+  number  = {137},
+  pages   = {1-5},
+  url     = {http://jmlr.org/papers/v17/16-177.html}
+}
+```
