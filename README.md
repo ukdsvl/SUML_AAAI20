@@ -24,7 +24,7 @@ conda activate <env_name>
 
 Refer the jupyter notebook provided here to get an idea of the format of the data that you want to execute your code upon. Mostly, it requires data in the form of ``` dxN ``` matrices, where ```d``` is the dimensionality of the data, and ```N``` is the number of examples.
 
-To extend SUML for the deep setting using PyTorch, the cost provided in the notebook can be used in computing the loss for a mini-batch.
+To extend SUML for the deep setting using PyTorch, the cost provided in the notebook can be used in computing the loss for a mini-batch. Please refer https://github.com/ukdsvl/GUML/blob/master/Triplet_net_sGUML_demo.ipynb for a demo.
 
 ## Citation
 
