@@ -2,7 +2,7 @@
 ```
 Github repository for our AAAI 2020 accepted paper: Unsupervised Metric Learning with Synthetic Examples
 ```
-Link to paper: [Unsupervised Metric Learning with Synthetic Examples](https://www.aaai.org/Papers/AAAI/2020GB/AAAI-DuttaU.7665.pdf) 
+Link to paper: [Unsupervised Metric Learning with Synthetic Examples](https://aaai.org/ojs/index.php/AAAI/article/view/5795) 
 
 In this paper, we use unlabeled data to generate adversarial, synthetic constraints for metric learning. We minimize the entropy of a conditional probability to learn the metric. Our method is called SUML.
 
